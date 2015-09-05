@@ -5,3 +5,4 @@ blueberry
 banana
 peach
 lemon
+plum
